@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dani! 👋
 
-<!--
-**rehak-daniel/rehak-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior **Full-stack Software Developer** recently graduated from the **PROGmasters** intensive bootcamp. I am passionate about building clean, scalable web applications and constantly improving my architectural skills.
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **PROGmasters**: Full-stack Java Software Developer Program (8-month intensive course)
+- Focus on practical coding, Clean Code principles, and agile teamwork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Stack
+- **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs
+- **Frontend:** Angular, TypeScript, JS, HTML, CSS, JavaScript
+- **Database:** SQL, PostgreSQL, MySQL
+- **Tools:** Git, Maven, Postman, JUnit (Basics)
+
+### ✍️ Professional Mindset
+- **Clean Code:** Committed to writing readable and maintainable code.
+- **Continuous Learning:** Actively deepening my knowledge of **SOLID** principles and **TDD** (Unit Testing) through hands-on practice.
+- **Agile:** Experienced in working within a Scrum environment during team projects.
+
+📫 How to reach me: www.linkedin.com/in/daniel-rehak
