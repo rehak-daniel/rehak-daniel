@@ -17,4 +17,4 @@ I am a Junior **Full-stack Software Developer** recently graduated from the **PR
 - **Continuous Learning:** Actively deepening my knowledge of **SOLID** principles and **TDD** (Unit Testing) through hands-on practice.
 - **Agile:** Experienced in working within a Scrum environment during team projects.
 
-📫 How to reach me: www.linkedin.com/in/daniel-rehak
+📫 How to reach me: rehak.daniel17@gmail.com
