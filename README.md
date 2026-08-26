@@ -1,4 +1,4 @@
-# Hi, I'm Dani! 👋
+# Hi, I'm Daniel! 👋
 
 I am a Junior **Full-stack Software Developer** recently graduated from the **PROGmasters** intensive bootcamp. I am passionate about building clean, scalable web applications and constantly improving my architectural skills.
 
